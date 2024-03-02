@@ -10,6 +10,6 @@
 
 ## Ресурсы проекта
 
-- [YouTrack](https://project7-2.youtrack.cloud)
+- [YouTrack](https://project7-2.youtrack.cloud/projects/d0dff99c-a011-4840-bdd2-16cc0f41a7a0)
 - [Miro](https://miro.com/app/board/uXjVNmelNpY=/)
 - Figma
